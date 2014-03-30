@@ -1,0 +1,22 @@
+{
+  "name": "pxeger",
+  "version": "0.0.1",
+  "description": "",
+  "main": "sources/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:arcanis/pxeger"
+  },
+  "author": "Maël Nison",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arcanis/pxeger/issues"
+  },
+  "homepage": "https://github.com/arcanis/pxeger",
+  "dependencies": {
+    "pegjs": "*"
+  }
+}
